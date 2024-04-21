@@ -1,5 +1,3 @@
-This is a project for hshacks! 
-
 A simple scheduler in 50 Lines of Code
 To run the scheduler download the file or clone the repository. 
 Then run ./scheduler.sh <start_time> <stop_time> <command>
